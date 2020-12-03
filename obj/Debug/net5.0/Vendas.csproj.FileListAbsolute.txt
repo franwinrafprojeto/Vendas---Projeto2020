@@ -1,0 +1,780 @@
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\appsettings.json
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.exe
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.deps.json
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.json
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.dev.json
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ref\Vendas.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.pdb
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.Views.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Vendas.Views.pdb
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.Manifest.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.xml
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\scopedcss\bundle\Vendas.styles.css
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.input.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.output.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.RazorCoreGenerate.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.Views.pdb
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.dll
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\ref\Vendas.dll
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.pdb
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.genruntimeconfig.cache
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Vendas.csproj.CopyComplete
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Will\Desktop\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Create.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Delete.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Details.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Edit.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Index.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Create.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Delete.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Details.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Edit.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Index.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Create.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Delete.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Details.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Edit.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Index.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Create.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Delete.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Details.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Edit.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Index.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Create.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Delete.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Details.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Edit.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Index.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Create.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Delete.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Details.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Edit.cshtml.g.cs
+C:\Users\Will\Desktop\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\appsettings.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.deps.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.dev.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ref\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.Views.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Vendas.Views.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.csprojAssemblyReference.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.Manifest.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.xml
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\scopedcss\bundle\Vendas.styles.css
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.input.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.output.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorCoreGenerate.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.Views.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.csproj.CopyComplete
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\ref\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho\Vendas\Vendas\obj\Debug\net5.0\Vendas.genruntimeconfig.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.csprojAssemblyReference.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\ref\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\appsettings.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.deps.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.dev.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ref\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.Views.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Vendas.Views.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.Manifest.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.xml
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\scopedcss\bundle\Vendas.styles.css
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.input.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.output.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorCoreGenerate.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.Views.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.csproj.CopyComplete
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas\Vendas\obj\Debug\net5.0\Vendas.genruntimeconfig.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\appsettings.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.deps.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.dev.json
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ref\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.Views.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Vendas.Views.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.csprojAssemblyReference.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.Manifest.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.xml
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\scopedcss\bundle\Vendas.styles.css
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.input.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.output.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.RazorCoreGenerate.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEndereco\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroEntregador\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPagamento\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\CadastroPessoal\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Entrega\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Create.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Delete.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Details.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Edit.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Mercadoria\Index.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cache
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.RazorTargetAssemblyInfo.cs
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.Views.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.csproj.CopyComplete
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\ref\Vendas.dll
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.pdb
+C:\Users\tauan\OneDrive\Área de Trabalho\FACULDADE 2020.1\DESENVOLVIMENTO INTERNET - RODRIGO\trabalho - Copia\Vendas - Copia\Vendas\obj\Debug\net5.0\Vendas.genruntimeconfig.cache

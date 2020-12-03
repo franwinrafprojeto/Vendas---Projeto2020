@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tauan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tauan\\.nuget\\packages"
+    ]
+  }
+}
